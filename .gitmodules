@@ -4,3 +4,6 @@
 [submodule "sem5/se/se_lab"]
 	path = sem5/se/se_lab
 	url = git@github.com:itsdharani/PES2UG24CS157_SE_Lab.git
+[submodule "sem5/se_lab"]
+	path = sem5/se_lab
+	url = git@github.com:itsdharani/PES2UG24CS157_SE_Lab.git
