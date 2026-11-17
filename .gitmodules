@@ -1,3 +1,6 @@
 [submodule "sem5/VDUI"]
 	path = sem5/VDUI
 	url = git@github.com:itsdharani/VDUI_Assignment_Submissions.git
+[submodule "sem5/se/se_lab"]
+	path = sem5/se/se_lab
+	url = git@github.com:itsdharani/PES2UG24CS157_SE_Lab.git
